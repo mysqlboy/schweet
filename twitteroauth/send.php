@@ -13,10 +13,7 @@ class twat {
     private $tweet='';
     private $tweetbody= array();
     private $msg = '';
-    private $consumerKey = 'GgtRdQ7h5j1Tya6aTpWdKQ';
-    private $consumerSecret = 'GvOau19tzjvJW8jlOnvROC9Qoaq1VeZBPbQbo0ApsRI';
-    private $oAuthToken = '101830860-qgSSGbgXO4BKDnD0uNWoNYKiqMezTQANJt9Cb7UC';
-    private $oAuthSecret = 'Px8rU8unN9sS7UrpPuO4llW5sHzzAvAdfcyII3Slic';
+
     
     public function __construct() {
         //$this->msg = $message;
